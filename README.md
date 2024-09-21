@@ -3,7 +3,7 @@
 ## Table of Contents
   1. Introduction
   2. Requirements
-  3. Usage
+  3. Requirements
   4. Features
   
 
