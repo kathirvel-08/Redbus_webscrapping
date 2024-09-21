@@ -26,6 +26,10 @@
 
 ## Features
   **Automated Data Collection:** Scrape Redbus data automatically using Selenium.
+  
   **Efficient Data Cleaning:** Clean and preprocess data with Pandas.
+  
   **Data Storage:** Store preprocessed data in a MySQL database.
+  
   **Interactive Visualization:** View and explore bus data using an interactive Streamlit dashboard.
+  
