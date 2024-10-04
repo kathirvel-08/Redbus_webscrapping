@@ -8,7 +8,7 @@ connection = mysql.connector.connect(
   host = "gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
   port = 4000,
   user = "FkKihxumjnFVNpL.root",
-  password = "PMAzpxzEEwMxG83X",
+  password = "aJbOPNJiY29LMILn",
   database = "test"
 )
 cursor = connection.cursor(buffered=True)
